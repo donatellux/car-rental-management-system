@@ -1,0 +1,74 @@
+{
+    "app": {
+        "title": "Car Rental Management System",
+        "language": "Language"
+    },
+    "login": {
+        "title": "Login",
+        "email_label": "Email",
+        "password_label": "Password",
+        "login_button": "Login",
+        "invalid_credentials": "Invalid email or password"
+    },
+    "dashboard": {
+        "title": "Dashboard",
+        "clients": "Clients",
+        "cars": "Cars",
+        "reservations": "Reservations",
+        "total_clients": "Total Clients",
+        "total_cars": "Total Cars",
+        "total_reservations": "Total Reservations"
+    },
+    "clients": {
+        "title": "Clients Management",
+        "add_client": "Add Client",
+        "login": "Login",
+        "password": "Password",
+        "first_name": "First Name",
+        "last_name": "Last Name",
+        "birth_date": "Birth Date",
+        "email": "Email",
+        "phone": "Phone",
+        "status": "Status",
+        "active": "Active",
+        "inactive": "Inactive",
+        "blacklisted": "Blacklisted",
+        "edit": "Edit",
+        "delete": "Delete"
+    },
+    "cars": {
+        "title": "Cars Management",
+        "add_car": "Add Car",
+        "brand": "Brand",
+        "model": "Model",
+        "plate_number": "Plate Number",
+        "daily_rate": "Daily Rate",
+        "availability": "Availability",
+        "available": "Available",
+        "rented": "Rented",
+        "maintenance": "Maintenance",
+        "expenses": "Expenses",
+        "add_expense": "Add Expense",
+        "expense_description": "Description",
+        "expense_amount": "Amount",
+        "expense_date": "Date",
+        "edit": "Edit",
+        "delete": "Delete"
+    },
+    "reservations": {
+        "title": "Reservations Management",
+        "add_reservation": "Add Reservation",
+        "client_name": "Client Name",
+        "car": "Car",
+        "date": "Date",
+        "time": "Time",
+        "duration": "Duration",
+        "profession": "Profession",
+        "service": "Service",
+        "assigned_employee": "Assigned Employee",
+        "assigned": "Assigned",
+        "generate_contract": "Generate Contract",
+        "edit": "Edit",
+        "delete": "Delete"
+    }
+}
