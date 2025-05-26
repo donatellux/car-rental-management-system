@@ -1,0 +1,74 @@
+{
+    "app": {
+        "title": "Système de Gestion de Location de Voitures",
+        "language": "Langue"
+    },
+    "login": {
+        "title": "Connexion",
+        "email_label": "Email",
+        "password_label": "Mot de passe",
+        "login_button": "Se connecter",
+        "invalid_credentials": "Email ou mot de passe invalide"
+    },
+    "dashboard": {
+        "title": "Tableau de bord",
+        "clients": "Clients",
+        "cars": "Voitures",
+        "reservations": "Réservations",
+        "total_clients": "Total Clients",
+        "total_cars": "Total Voitures",
+        "total_reservations": "Total Réservations"
+    },
+    "clients": {
+        "title": "Gestion des Clients",
+        "add_client": "Ajouter un Client",
+        "login": "Identifiant",
+        "password": "Mot de passe",
+        "first_name": "Prénom",
+        "last_name": "Nom",
+        "birth_date": "Date de Naissance",
+        "email": "Email",
+        "phone": "Téléphone",
+        "status": "Statut",
+        "active": "Actif",
+        "inactive": "Inactif",
+        "blacklisted": "Liste noire",
+        "edit": "Modifier",
+        "delete": "Supprimer"
+    },
+    "cars": {
+        "title": "Gestion des Voitures",
+        "add_car": "Ajouter une Voiture",
+        "brand": "Marque",
+        "model": "Modèle",
+        "plate_number": "Matricule",
+        "daily_rate": "Prix par Jour",
+        "availability": "Disponibilité",
+        "available": "Disponible",
+        "rented": "Louée",
+        "maintenance": "En maintenance",
+        "expenses": "Dépenses",
+        "add_expense": "Ajouter une Dépense",
+        "expense_description": "Description",
+        "expense_amount": "Montant",
+        "expense_date": "Date",
+        "edit": "Modifier",
+        "delete": "Supprimer"
+    },
+    "reservations": {
+        "title": "Gestion des Réservations",
+        "add_reservation": "Ajouter une Réservation",
+        "client_name": "Nom du Client",
+        "car": "Voiture",
+        "date": "Date",
+        "time": "Heure",
+        "duration": "Durée",
+        "profession": "Métier",
+        "service": "Prestation",
+        "assigned_employee": "Employé Affecté",
+        "assigned": "Affecté",
+        "generate_contract": "Générer Contrat",
+        "edit": "Modifier",
+        "delete": "Supprimer"
+    }
+}
