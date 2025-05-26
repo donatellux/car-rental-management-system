@@ -1,0 +1,22 @@
+# Include all localization files
+include car_rental_app/localization/*.json
+include car_rental_app/localization/*.py
+
+# Include fonts
+include car_rental_app/fonts/*.ttf
+
+# Include documentation
+include README.md
+include LICENSE
+
+# Include requirements
+include requirements.txt
+
+# Exclude development files
+exclude build.py
+exclude .gitignore
+exclude *.pyc
+exclude __pycache__
+exclude *.egg-info
+exclude dist
+exclude build
