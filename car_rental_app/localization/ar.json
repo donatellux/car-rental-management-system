@@ -1,0 +1,74 @@
+{
+    "app": {
+        "title": "نظام إدارة تأجير السيارات",
+        "language": "اللغة"
+    },
+    "login": {
+        "title": "تسجيل الدخول",
+        "email_label": "البريد الإلكتروني",
+        "password_label": "كلمة المرور",
+        "login_button": "دخول",
+        "invalid_credentials": "البريد الإلكتروني أو كلمة المرور غير صحيحة"
+    },
+    "dashboard": {
+        "title": "لوحة التحكم",
+        "clients": "العملاء",
+        "cars": "السيارات",
+        "reservations": "الحجوزات",
+        "total_clients": "إجمالي العملاء",
+        "total_cars": "إجمالي السيارات",
+        "total_reservations": "إجمالي الحجوزات"
+    },
+    "clients": {
+        "title": "إدارة العملاء",
+        "add_client": "إضافة عميل",
+        "login": "اسم المستخدم",
+        "password": "كلمة المرور",
+        "first_name": "الاسم الأول",
+        "last_name": "اسم العائلة",
+        "birth_date": "تاريخ الميلاد",
+        "email": "البريد الإلكتروني",
+        "phone": "رقم الهاتف",
+        "status": "الحالة",
+        "active": "نشط",
+        "inactive": "غير نشط",
+        "blacklisted": "القائمة السوداء",
+        "edit": "تعديل",
+        "delete": "حذف"
+    },
+    "cars": {
+        "title": "إدارة السيارات",
+        "add_car": "إضافة سيارة",
+        "brand": "الماركة",
+        "model": "الموديل",
+        "plate_number": "رقم اللوحة",
+        "daily_rate": "السعر اليومي",
+        "availability": "التوفر",
+        "available": "متوفرة",
+        "rented": "مؤجرة",
+        "maintenance": "في الصيانة",
+        "expenses": "المصروفات",
+        "add_expense": "إضافة مصروف",
+        "expense_description": "الوصف",
+        "expense_amount": "المبلغ",
+        "expense_date": "التاريخ",
+        "edit": "تعديل",
+        "delete": "حذف"
+    },
+    "reservations": {
+        "title": "إدارة الحجوزات",
+        "add_reservation": "إضافة حجز",
+        "client_name": "اسم العميل",
+        "car": "السيارة",
+        "date": "التاريخ",
+        "time": "الوقت",
+        "duration": "المدة",
+        "profession": "المهنة",
+        "service": "الخدمة",
+        "assigned_employee": "الموظف المعين",
+        "assigned": "تم التعيين",
+        "generate_contract": "إنشاء العقد",
+        "edit": "تعديل",
+        "delete": "حذف"
+    }
+}
